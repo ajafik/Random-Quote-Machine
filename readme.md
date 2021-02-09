@@ -1,3 +1,4 @@
 # Random Quote Machine
 
-> https://codepen.io/ajafik/pen/ZEBOZKa
+> Codepen - https://codepen.io/ajafik/pen/ZEBOZKa
+> Vercel - https://random-quote-machine-teal.vercel.app/
